@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chemopoly:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chemopoly_jar</output-path>
+    <root id="archive" name="Chemopoly.jar">
+      <element id="module-output" name="Chemopoly" />
+    </root>
+  </artifact>
+</component>
